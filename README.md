@@ -656,6 +656,11 @@ Note: If your default branch is master instead of main, replace main with master
 4. Sync Changes
 - Use the Sync Changes button in the Source Control view to automatically pull and then push changes.
 
+
+References:
+https://docs.cse.lehigh.edu/vscode/installing-vscode-win/
+https://www.datacamp.com/tutorial/setting-up-vscode-python
+
 # Example Workflow
 1. Make Changes: Edit files in your project.
 2. Stage Changes: Go to Source Control view and stage the changes.
